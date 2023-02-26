@@ -4,6 +4,7 @@ Object=(Class=class,MetaClass=Xinterface.GUIUserKeyBinding,Name=ScrnBalanceSrv.S
 [Ach]
 GroupInfo=((Caption="ВСЕ"),(Caption="Карты"),(Caption="Основной опыт"),(Caption="Мастерство"),(Caption="Командная работа"),(Caption="Разное"))
 ProgressName="Достижения"
+AchDefs(0)=(DisplayName="Любопытный",Description=" Выжить на %c картах, созданных сообществом")
 
 [AchMaps]
 ProgressName="Достижения (Карты)"
